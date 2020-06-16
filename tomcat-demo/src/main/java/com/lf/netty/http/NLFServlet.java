@@ -1,4 +1,4 @@
-package com.netty.http;
+package com.lf.netty.http;
 
 public abstract class NLFServlet {
 	

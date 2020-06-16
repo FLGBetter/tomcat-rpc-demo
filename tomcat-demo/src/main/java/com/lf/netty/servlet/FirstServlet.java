@@ -1,8 +1,8 @@
-package com.netty.servlet;
+package com.lf.netty.servlet;
 
-import com.netty.http.NLFRequest;
-import com.netty.http.NLFResponse;
-import com.netty.http.NLFServlet;
+import com.lf.netty.http.NLFRequest;
+import com.lf.netty.http.NLFResponse;
+import com.lf.netty.http.NLFServlet;
 
 public class FirstServlet extends NLFServlet {
 

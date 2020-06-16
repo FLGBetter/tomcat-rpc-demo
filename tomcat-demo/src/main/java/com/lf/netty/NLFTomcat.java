@@ -1,9 +1,9 @@
-package com.netty;
+package com.lf.netty;
 
 
-import com.netty.http.NLFRequest;
-import com.netty.http.NLFResponse;
-import com.netty.http.NLFServlet;
+import com.lf.netty.http.NLFRequest;
+import com.lf.netty.http.NLFResponse;
+import com.lf.netty.http.NLFServlet;
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.channel.*;
 import io.netty.channel.nio.NioEventLoopGroup;
